@@ -1,1 +1,3 @@
 ala jest super i poradzi sobie na zajęciach bo jest całkiem nawet nie głupia buzi
+
+print('hello world!')
